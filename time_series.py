@@ -1,5 +1,3 @@
-import pdb
-
 import numpy as np
 
 MS_TO_SECONDS = 1000
